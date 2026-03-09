@@ -170,18 +170,15 @@ A equipe Do Zero à Leitura em 90 Dias`
         {
           title: "Como integrar o app à rotina",
           content: "• Use o app como REFORÇO da atividade do dia — não como substituto\n• Tempo recomendado no app: 10 a 15 minutos por dia\n• Ideal após o jantar ou antes do banho — momento de transição\n• Pode funcionar como prêmio: 'Depois das atividades, 10 min no app'\n• Nas fases já concluídas, deixe a criança usar livremente — é revisão com prazer"
-        },
-        {
-          title: "Dica da Metodologia",
-          content: "Sente junto com a criança nas primeiras sessões do app para orientar. Depois de 2 a 3 dias, ela vai querer usar sozinha — e isso é ótimo."
-        },
-        {
-          title: "O app não substitui este guia",
-          content: "O app é um complemento. A relación humana, o olho no olho, o elogio da mãe, a risada juntos — nenhum aplicativo substitui isso. Use o app como um aliado, mas mantenha as sessões presenciais deste guia como o coração do processo."
         }
       ]
     },
     {
+      id: "c6",content: "• 40 atividades interativas organizadas pelas 4 Fases do método\n• Exercícios de sons, rimas, sílabas, letras, palavras e frases\n• Feedback imediato com sons e animações que motivam a criança\n• Acompanhamento de progresso para que você veja a evolução\n• Modo livre para exploração independente nas fases já concluídas"
+        },
+        {
+          title: "Como integrar o app à rotina",
+          content: "• Use o app como REFORÇO da atividade do dia — não como substituto\n• Tempo recomendado no app: 10 a 15 minutos por dia\n• Ideal após o jantar ou antes do banho — momento de transição\n• Pode funcionar como pr�    {
       id: "c6",
       title: "Capítulo 6 — Sons Especiais do Português",
       content: "O português brasileiro tem alguns grupos de letras que produzem sons especiais — diferentes do que cada letra faria sozinha. Este capítulo é o guia completo para ensiná-los na Fase 4.",
@@ -206,67 +203,31 @@ A equipe Do Zero à Leitura em 90 Dias`
     },
     {
       id: "c7",
-      title: "Capítulo 7 — Textos para Praticar na Fase 4",
-      content: "Use estes textos nas últimas semanas do método. Cada história está adaptada ao nível da Fase 4 — com vocabulário acessível e frases progressivamente mais longas. Após cada leitura, faça as perguntas de compreensão.",
+      title: "Capítulo 7 — Textos, Palavras e Atividades Extras",
+      content: "Este capítulo reúne materiais práticos essenciais para as fases finais do método: textos para leitura, a lista das 100 palavras mais frequentes e uma coleção de atividades extras para todas as fases.",
       sections: [
         {
-          title: "História 1 — O Gato e o Peixe",
-          content: "O gato chamado Bolo vivia em uma casa perto do lago. Todo dia, Bolo ia até o lago para pescar. Um dia, Bolo viu um peixe muito grande. Ele mergulhou a pata na água e o peixe fugiu. Bolo ficou triste, mas na hora do jantar a dona trouxe um peixe enorme. Bolo ronronou muito feliz e comeu tudo.\n\nPerguntas de compreensão:\n• Qual é o nome do gato?\n• Onde o gato ia todo dia?\n• O que aconteceu quando o peixe viu a pata do gato?\n• Como a história terminou?"
+          title: "Textos para Praticar na Fase 4",
+          content: "Use estes textos nas últimas semanas do método. Cada história está adaptada ao nível da Fase 4 — com vocabulário acessível e frases progressivamente mais longas. Após cada leitura, faça as perguntas de compreensão.\n\nHistória 1 — O Gato e o Peixe\nO gato chamado Bolo vivia em uma casa perto do lago.\nTodo dia, Bolo ia até o lago para pescar.\nUm dia, Bolo viu um peixe muito grande.\nEle mergulhou a pata na água e o peixe fugiu.\nBolo ficou triste, mas na hora do jantar a dona trouxe um peixe enorme.\nBolo ronronou muito feliz e comeu tudo.\n\nPerguntas de compreensão:\n• Qual é o nome do gato?\n• Onde o gato ia todo dia?\n• O que aconteceu quando o peixe viu a pata do gato?\n• Como a história terminou?\n\nHistória 2 — A Menina e a Chuva\nSofia olhou pela janela e viu a chuva cair.\n— Que chato! Não posso brincar lá fora — ela disse.\nA mãe sorriu e trouxe uma bacia com água e potes de plástico.\n— Vamos brincar de chuva aqui dentro?\nSofia encheu os potes e despejou a água como se fosse chuva.\nNo fim, as duas riram muito e o chão ficou todo molhado.\n\nPerguntas de compreensão:\n• Por que Sofia estava triste no começo?\n• O que a mãe trouxe para ela?\n• O que Sofia fez com os potes de plástico?\n• Como as duas se sentiram no final?\n\nHistória 3 — O Cachorro Viajante\nBolinha era um cachorro que adorava caminhar.\nUm dia, ele saiu de casa e não parou mais.\nPassou pela padaria e ganhou um pão.\nPassou pela escola e viu crianças brincando.\nChegou no parque e encontrou outros cachorros.\nQuando anoiteceu, Bolinha voltou para casa com o rabo abanando.\n— Você foi longe hoje! — disse o dono.\n— Só fui ver o mundo — respondeu Bolinha com os olhos brilhando.\n\nPerguntas de compreensão:\n• Para onde o Bolinha foi?\n• O que ele ganhou na padaria?\n• Por que ele voltou para casa com o rabo abanando?\n• O que você acha que Bolinha vai fazer no dia seguinte?\n\nHistória 4 — A Turma do Jardim\nNa escola, havia um jardim com muitas flores.\nA professora disse: — Cada um vai cuidar de uma flor.\nPedro escolheu um girassol. Bianca escolheu uma rosa. Lucas escolheu uma margarida.\nTodos os dias, eles regavam e tiravam o mato.\nEm três semanas, o jardim estava lindo.\n— Vocês cuidaram com amor — disse a professora.\n— É por isso que as flores cresceram tão bonitas.\n\nPerguntas de compreensão:\n• O que havia no jardim da escola?\n• O que cada criança teve que fazer?\n• Por que o jardim ficou bonito?\n• O que você plantaria se fosse um deles?\n\nHistória 5 — A Carta da Vovó\nNum dia chuvoso, o carteiro trouxe uma carta.\nAna leu o envelope: 'Para a minha neta Ana, com muito amor.'\nEra da vovó Maria, que morava longe.\nAna abriu a carta devagar e leu em voz alta para a mãe.\n'Querida Ana, saudades de você enchem meu coração.'\n'Em breve vou te visitar e vou trazer aquele bolo que você ama.'\nAna correu para pegar um papel e uma caneta.\n— Vou escrever de volta agora mesmo! — ela disse sorrindo.\n\nPerguntas de compreensão:\n• De quem era a carta?\n• O que a vovó prometeu trazer na visita?\n• O que Ana decidiu fazer depois de ler a carta?\n• Você já escreveu ou recebeu uma carta?"
         },
         {
-          title: "História 2 — A Menina e a Chuva",
-          content: "Sofia olhou pela janela e viu a chuva cair. — Que chato! Não posso brincar lá fora — ela disse. A mãe sorriu e trouxe uma bacia com água e potes de plástico. — Vamos brincar de chuva aqui dentro? Sofia encheu os potes e despejou a água como se fosse chuva. No fim, as duas riram muito e o chão ficou todo molhado.\n\nPerguntas de compreensão:\n• Por que Sofia estava triste no começo?\n• O que a mãe trouxe para ela?\n• O que Sofia fez com os potes de plástico?\n• Como as duas se sentiram no final?"
+          title: "As 100 Palavras de Alta Frequência",
+          content: "As 100 palavras mais frequentes do português brasileiro representam mais de 50% de qualquer texto escrito. Quando a criança reconhece essas palavras de forma automática, sem precisar decodificar letra por letra, a leitura fica muito mais fluida e natural.\n\nUse esta lista nas Fases 3 e 4. Crie cartões com as palavras e pratique o reconhecimento rápido.\n\nComo praticar com estas palavras:\n• Cartão-relâmpago: mostre cada cartão por 2 segundos. A criança fala a palavra.\n• Jogo do minuto: quantas palavras ela consegue ler em 1 minuto? Anote e tente bater o recorde.\n• Busca no texto: ao ler uma história, a criança marca com caneta todas as vezes que encontrar a palavra 'de'.\n• Ditado rápido: você fala a palavra, ela escreve no caderno. 10 palavras por sessão.\n\no a de e que em não um uma para\ncom se na por mais as dos das ao ele\nseu sua como mas ela no já muito isso bem\nquando foi só também todo essa eu te nos aos\npela pelo ter tem ser são era meu minha você\nnós eles aqui onde quem agora ainda antes depois sempre\nnunca hoje ali lá grande pequeno bonito nova casa dia\nvez ano fazer ir vir ver saber querer poder dar\nfilho filha mãe pai avó avô irmão amigo nome coisa\nbom boa novo velha falar hora lugar mundo vida gente\n\n■ Dica da Metodologia:\nNão tente ensinar todas as 100 palavras de uma vez. Trabalhe 10 por semana nas Fases 3 e 4. Em 10 semanas, a criança vai reconhecer todas automaticamente — e isso vai transformar a fluência dela."
         },
         {
-          title: "História 3 — O Cachorro Viajante",
-          content: "Bolinha era um cachorro que adorava caminhar. Um dia, ele saiu de casa e não parou mais. Passou pela padaria e ganhou um pão. Passou pela escola e viu crianças brincando. Chegou no parque e encontrou outros cachorros. Quando anoiteceu, Bolinha voltou para casa com o rabo abanando. — Você foi longe hoje! — disse o dono. — Só fui ver o mundo — respondeu Bolinha com os olhos brilhando.\n\nPerguntas de compreensão:\n• Para onde o Bolinha foi?\n• O que ele ganhou na padaria?\n• Por que ele voltou para casa com o rabo abanando?\n• O que você acha que Bolinha vai fazer no dia seguinte?"
-        },
-        {
-          title: "História 4 — A Turma do Jardim",
-          content: "Na escola, havia um jardim com muitas flores. A professora disse: — Cada um vai cuidar de uma flor. Pedro escolheu um girassol. Bianca escolheu uma rosa. Lucas escolheu uma margarida. Todos os dias, eles regavam e tiravam o mato. Em três semanas, o jardim estava lindo. — Vocês cuidaram com amor — disse a professora. — É por isso que as flores cresceram tão bonitas.\n\nPerguntas de compreensão:\n• O que havia no jardim da escola?\n• O que cada criança teve que fazer?\n• Por que o jardim ficou bonito?\n• O que você plantaria se fosse um deles?"
-        },
-        {
-          title: "História 5 — A Carta da Vovó",
-          content: "Num dia chuvoso, o carteiro trouxe uma carta. Ana leu o envelope: 'Para a minha neta Ana, com muito amor.' Era da vovó Maria, que morava longe. Ana abriu a carta devagar e leu em voz alta para a mãe. 'Querida Ana, saudades de você enchem meu coração. Em breve vou te visitar e vou trazer aquele bolo que você ama.' Ana correu para pegar um papel e uma caneta. — Vou escrever de volta agora mesmo! — ela disse sorrindo.\n\nPerguntas de compreensão:\n• De quem era a carta?\n• O que a vovó prometeu trazer na visita?\n• O que Ana decidiu fazer depois de ler a carta?\n• Você já escreveu ou recebeu uma carta?"
+          title: "Atividades Extras por Fase",
+          content: "Nestas páginas você encontra atividades adicionais para usar em dias de revisão, quando a criança pede mais, ou quando quer algo diferente da rotina do dia.\n\nAtividades Extras — Fase 1\n■ ATIVIDADE: Jogo do Rima-Rima\nSente em círculo — pode chamar irmãos ou o pai. A primeira pessoa fala uma palavra. A próxima fala uma que rima. Continua até alguém não conseguir. Quem não conseguir bate uma palma e começa uma nova palavra. Sugestão de tempo: 10 a 15 minutos.\n\n■ ATIVIDADE: Caça ao Som\nDefina um som do dia — por exemplo, o som de P. A criança tem 5 minutos para caminhar pela casa e encontrar 10 objetos que começam com aquele som. Para cada objeto, ela fala em voz alta: PORTA — começa com P! Anote os objetos encontrados e compare com a sessão anterior.\n\n■ ATIVIDADE: Tesoura de Sílabas\nEscreva 5 palavras de 2 e 3 sílabas num papel. A criança recorta cada sílaba e coloca numa caixinha. Depois, ela mistura todas as sílabas e tenta remontar as palavras originais. Variação: misture sílabas de palavras diferentes e veja que palavras malucas ela cria.\n\nAtividades Extras — Fase 2\n■ ATIVIDADE: Letras Sensoriais\nColoque farinha de trigo numa assadeira baixa formando uma camada fina. Você faz o som de uma letra. A criança desenha a letra na farinha com o dedo. Se acertar, sopra a farinha e recomeça. Se errar, olham a ficha juntos. Variação: use massa de modelar para moldar as letras em 3D.\n\n■ ATIVIDADE: Caça a Letra na Dispensa\nLeve a criança até a cozinha ou dispensa. Dê uma letra para ela caçar em todas as embalagens que encontrar. Ela aponta, você confirma. Cada embalagem com a letra ganha um ponto. Tente também encontrar palavras inteiras que ela já sabe ler.\n\n■ ATIVIDADE: A Professora de Brinquedos\nAlinhe 3 ou 4 brinquedos numa carteira improvisada. A criança vai ser a professora. Você escreve a letra numa ficha. A criança ensina os brinquedos: Turma, esta letra é o M! Ela faz o som mmm! Pesquisas mostram que ensinar consolida o aprendizado de forma muito mais eficaz do que só estudar.\n\nAtividades Extras — Fase 3\n■ ATIVIDADE: Caixa de Correio\nFaça uma caixa de correio com uma caixa de sapato decorada. Toda noite, você coloca um bilhetinho dentro para ela ler de manhã. Os bilhetes começam simples e vão ficando mais longos semana a semana. Ela pode escrever bilhetes de volta — no começo com sua ajuda, depois sozinha.\n\n■ ATIVIDADE: Jogo dos Pares de Palavras\nCrie 20 cartões: 10 com palavras escritas e 10 com figuras correspondentes. Espalhe todos virados para baixo. A criança vira um, lê a palavra e tenta encontrar a figura. Quando encontrar o par, fica com os dos cartões. Quem tiver mais pares ganha.\n\n■ ATIVIDADE: Leitura com Apontador\nUse um palito de sorvete ou lápis como apontador. A criança lê um texto simples apontando para cada palavra enquanto lê. Isso treina a correspondência olho-dedo-voz, essencial para a fluência. Com o tempo, ela vai precisar menos do apontador — sinal de progresso.\n\nAtividades Extras — Fase 4\n■ ATIVIDADE: O Podcast da Família\nCom o celular, grave a criança fazendo um podcast — ela apresenta, conta uma história ou faz uma entrevista. Antes de gravar, ela escreve um roteiro simples de 4 a 5 frases. Depois, escute a gravação juntos. Celebre o progresso! Opcional: envie o áudio para os avós. O orgulho vai fazer ela querer gravar mais.\n\n■ ATIVIDADE: Clube do Livro Família\nUma vez por semana, cada membro da família traz um livro ou texto preferido. Cada um lê um trecho em voz alta para os outros. A criança participa com o livro dela — mesmo que seja um livro simples. Isso cria uma memória afetiva poderosa associada à leitura.\n\n■ ATIVIDADE: O Diário de Leitura\nCrie um caderno especial chamado Meu Diário de Leitura. Após cada livro, a criança escreve o título, o personagem favorito e o que mais gostou. Com o tempo, o diário vira um registro do crescimento dela como leitora. No Dia 90, olhe juntos o que ela escreveu desde o começo."
+        }
+      ]
+    },
+Extras — Fase 4\n■ ATIVIDADE: O Podcast da Família\nCom o celular, grave a criança fazendo um podcast — ela apresenta, conta uma história ou faz uma entrevista. Antes de gravar, ela escreve um roteiro simples de 4 a 5 frases. Depois, escute a gravação juntos. Celebre o progresso! Opcional: envie o áudio para os avós. O orgulho vai fazer ela querer gravar mais.\n\n■ ATIVIDADE: Clube do Livro Família\nUma vez por semana, cada membro da família traz um livro ou texto preferido. Cada um lê um trecho em voz alta para os outros. A criança participa com o livro dela — mesmo que seja um livro simples. Isso cria uma memória afetiva poderosa associada à leitura.\n\n■ ATIVIDADE: O Diário de Leitura\nCrie um caderno especial chamado Meu Diário de Leitura. Após cada livro, a criança escreve o título, o personagem favorito e o que mais gostou. Com o tempo, o diário vira um registro do crescimento dela como leitora. No Dia 90, olhe juntos o que ela escreveu desde o começo."
         }
       ]
     },
     {
       id: "c8",
-      title: "Capítulo 8 — As 100 Palavras de Alta Frequência",
-      content: "As 100 palavras mais frequentes do português brasileiro representam mais de 50% de qualquer texto escrito. Quando a criança reconhece essas palavras de forma automática, sem precisar decodificar letra por letra, a leitura fica muito mais fluida e natural.",
-      sections: [
-        {
-          title: "Como praticar",
-          content: "• Cartão-relâmpago: mostre cada cartão por 2 segundos. A criança fala a palavra.\n• Jogo do minuto: quantas palavras ela consegue ler em 1 minuto? Anote e tente bater o recorde.\n• Busca no texto: ao ler uma história, a criança marca com caneta todas as vezes que encontrar a palavra 'de'.\n• Ditado rápido: você fala a palavra, ela escreve no caderno. 10 palavras por sessão."
-        },
-        {
-          title: "Lista das 100 Palavras",
-          content: "o, a, de, e, que, em, não, um, uma, para, com, se, na, por, mais, as, dos, das, ao, ele, seu, sua, como, mas, ela, no, já, muito, isso, bem, quando, foi, só, também, todo, essa, eu, te, nos, aos, pela, pelo, ter, tem, ser, são, era, meu, minha, você, nós, eles, aqui, onde, quem, agora, ainda, antes, depois, sempre, nunca, hoje, ali, lá, grande, pequeno, bonito, nova, casa, dia, vez, ano, fazer, ir, vir, ver, saber, querer, poder, dar, filho, filha, mãe, pai, avó, avô, irmão, amigo, nome, coisa, bom, boa, novo, velha, falar, hora, lugar, mundo, vida, gente"
-        },
-        {
-          title: "Dica da Metodologia",
-          content: "Não tente ensinar todas as 100 palavras de uma vez. Trabalhe 10 por semana nas Fases 3 e 4. Em 10 semanas, a criança vai reconhecer todas automaticamente — e isso vai transformar a fluência dela."
-        }
-      ]
-    },
-    {
-      id: "c9",
-      title: "Capítulo 9 — Atividades Extras por Fase",
-      content: "Nestas páginas você encontra atividades adicionais para usar em dias de revisão, quando a criança pede mais, ou quando quer algo diferente da rotina do dia.",
-      sections: [
-        {
-          title: "Atividades Extras — Fase 1",
-          content: "■ ATIVIDADE: Jogo do Rima-Rima\nSente em círculo — pode chamar irmãos ou o pai. A primeira pessoa fala uma palavra. A próxima fala uma que rima. Continua até alguém não conseguir. Quem não conseguir bate uma palma e começa uma nova palavra. Sugestão de tempo: 10 a 15 minutos.\n\n■ ATIVIDADE: Caça ao Som\nDefina um som do dia — por exemplo, o som de P. A criança tem 5 minutos para caminhar pela casa e encontrar 10 objetos que começam com aquele som. Para cada objeto, ela fala em voz alta: PORTA — começa com P! Anote os objetos encontrados e compare com a sessão anterior.\n\n■ ATIVIDADE: Tesoura de Sílabas\nEscreva 5 palavras de 2 e 3 sílabas num papel. A criança recorta cada sílaba e coloca numa caixinha. Depois, ela mistura todas as sílabas e tenta remontar as palavras originais. Variação: misture sílabas de palavras diferentes e veja que palavras malucas ela cria."
-        },
-        {
-          title: "Atividades Extras — Fase 2",
-          content: "■ ATIVIDADE: Letras Sensoriais\nColoque farinha de trigo numa assadeira baixa formando uma camada fina. Você faz o som de uma letra. A criança desenha a letra na farinha com o dedo. Se acertar, sopra a farinha e recomeça. Se errar, olham a ficha juntos. Variação: use massa de modelar para moldar as letras em 3D.\n\n■ ATIVIDADE: Caça a Letra na Dispensa\nLeve a criança até a cozinha ou dispensa. Dê uma letra para ela caçar em todas as embalagens que encontrar. Ela aponta, você confirma. Cada embalagem com a letra ganha um ponto. Tente também encontrar palavras inteiras que ela já sabe ler.\n\n■ ATIVIDADE: A Professora de Brinquedos\nAlinhe 3 ou 4 brinquedos numa carteira improvisada. A criança vai ser a professora. Você escreve a letra numa ficha. A criança ensina os brinquedos: 'Turma, esta letra é o M! Ela faz o som mmm!'. Pesquisas mostram que ensinar consolida o aprendizado de forma muito mais eficaz do que só estudar."
-        },
-        {
-          title: "Atividades Extras — Fase 3",
-          content: "■ ATIVIDADE: Caixa de Correio\nFaça uma caixa de correio com uma caixa de sapato decorada. Toda noite, você coloca um bilhetinho dentro para ela ler de manhã. Os bilhetes começam simples e vão ficando mais longos semana a semana. Ela pode escrever bilhetes de volta — no começo com sua ajuda, depois sozinha.\n\n■ ATIVIDADE: Jogo dos Pares de Palavras\nCrie 20 cartões: 10 com palavras escritas e 10 com figuras correspondentes. Espalhe todos virados para baixo. A criança vira um, lê a palavra e tenta encontrar a figura. Quando encontrar o par, fica com os dois cartões. Quem tiver mais pares ganha.\n\n■ ATIVIDADE: Leitura com Apontador\nUse um palito de sorvete ou lápis como apontador. A criança lê um texto simples apontando para cada palavra enquanto lê. Isso treina a correspondência olho-dedo-voz, essencial para a fluência. Com o tempo, ela vai precisar menos do apontador — sinal de progresso."
-        },
+      title: "Capítulo 8 — Perguntas Frequentes",
+  },
         {
           title: "Atividades Extras — Fase 4",
           content: "■ ATIVIDADE: O Podcast da Família\nCom o celular, grave a criança fazendo um podcast — ela apresenta, conta uma história ou faz uma entrevista. Antes de gravar, ela escreve um roteiro simples de 4 a 5 frases. Depois, escute a gravação juntos. Celebre o progresso! Opcional: envie o áudio para os avós.\n\n■ ATIVIDADE: Clube do Livro Família\nUma vez por semana, cada membro da família traz um livro ou texto preferido. Cada um lê um trecho em voz alta para os outros. A criança participa com o livro dela — mesmo que seja um livro simples. Isso cria uma memória afetiva poderosa associada à leitura.\n\n■ ATIVIDADE: O Diário de Leitura\nCrie um caderno especial chamado Meu Diário de Leitura. Após cada livro, a criança escreve o título, o personagem favorito e o que mais gostou. Com o tempo, o diário vira um registro do crescimento dela como leitora. No Dia 90, olhe juntos o que ela escreveu desde o começo."
@@ -313,8 +274,8 @@ A equipe Do Zero à Leitura em 90 Dias`
       ]
     },
     {
-      id: "c11",
-      title: "Capítulo 11 — Marcos de Desenvolvimento",
+      id: "c9",
+      title: "Capítulo 9 — Marcos de Desenvolvimento",
       content: "Use esta tabela para acompanhar o progresso da criança. Lembre-se: estes são marcos esperados, não obrigatórios. Cada criança tem seu ritmo.",
       sections: [
         {
@@ -324,8 +285,8 @@ A equipe Do Zero à Leitura em 90 Dias`
       ]
     },
     {
-      id: "c12",
-      title: "Capítulo 12 — Continuando Após os 90 Dias",
+      id: "c10",
+      title: "Capítulo 10 — Continuando Após os 90 Dias",
       content: "Parabéns! Você e seu filho chegaram até aqui juntos. Agora começa uma nova fase — a fase da consolidação e do prazer pela leitura.",
       sections: [
         {
