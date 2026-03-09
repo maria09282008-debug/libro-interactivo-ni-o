@@ -319,7 +319,7 @@ A equipe Do Zero à Leitura em 90 Dias`
       sections: [
         {
           title: "Mês a Mês",
-          content: "Mês 1: Identifica rimas, conta sílabas, reconhece sons iniciais.\nMês 2: Reconhece todas as vogais e 6+ consoantes. Lê sílabas simples.\nMês 3: Lê palavras simples (CVC, CVCV). Escreve palavras com apoio.\nMês 4–6: Lê frases curtas. Vocabulário de 50+ palavras.\nMês 7–9: Lê textos curtos. Fluência crescente.\nMês 10–12: Leitura independente de livros fáceis."
+          content: "Semanas 1-3 (Fase 1): Identifica rimas, conta sílabas, reconhece sons iniciais.\nMês 2: Reconhece todas as vogais e 6+ consoantes. Lê sílabas simples.\nMês 3: Lê palavras simples (CVC, CVCV). Escreve palavras com apoio.\nMês 4–6: Lê frases curtas. Vocabulário de 50+ palavras.\nMês 7–9: Lê textos curtos. Fluência crescente.\nMês 10–12: Leitura independente de livros fáceis."
         }
       ]
     },
