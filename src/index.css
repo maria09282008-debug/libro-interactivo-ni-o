@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Fredoka", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  --color-brand-primary: #6366F1; /* Indigo */
+  --color-brand-secondary: #F43F5E; /* Rose */
+  --color-brand-bg: #F0F9FF; /* Sky Blue Light */
+  --color-brand-accent: #F59E0B; /* Amber/Yellow */
+  --color-brand-success: #10B981; /* Emerald */
+  --color-brand-purple: #A855F7; /* Purple */
+  --color-brand-cyan: #06B6D4; /* Cyan */
+}
+
+body {
+  @apply bg-brand-bg text-slate-900 font-sans antialiased overflow-x-hidden;
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.05) 0%, transparent 20%),
+    radial-gradient(circle at 90% 80%, rgba(244, 63, 94, 0.05) 0%, transparent 20%),
+    url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%236366f1' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+.serif {
+  @apply font-serif;
+}
+
+.card {
+  @apply bg-white rounded-[2rem] shadow-xl shadow-indigo-500/5 border-2 border-white p-6 transition-all;
+}
+
+.card:hover {
+  @apply shadow-2xl shadow-indigo-500/10 -translate-y-1;
+}
+
+.btn-primary {
+  @apply bg-brand-primary text-white px-8 py-4 rounded-2xl font-bold transition-all hover:scale-105 active:scale-95 shadow-lg shadow-indigo-500/30;
+}
+
+.btn-secondary {
+  @apply bg-brand-secondary text-white px-8 py-4 rounded-2xl font-bold transition-all hover:scale-105 active:scale-95 shadow-lg shadow-rose-500/30;
+}
+
+/* Markdown Styles */
+.markdown-body table {
+  @apply w-full border-collapse mb-8 overflow-hidden rounded-[2rem] border-4 border-indigo-100 shadow-lg bg-white;
+}
+
+.markdown-body th {
+  @apply bg-indigo-500 border-b-4 border-indigo-600 p-5 text-left font-bold text-xs uppercase tracking-widest text-white;
+}
+
+.markdown-body td {
+  @apply border-b border-indigo-50 p-5 text-base text-slate-600 leading-relaxed font-medium;
+}
+
+.markdown-body tr:last-child td {
+  @apply border-b-0;
+}
+
+.markdown-body tr:nth-child(even) {
+  @apply bg-indigo-50/30;
+}
+
+.markdown-body blockquote {
+  @apply border-l-8 border-brand-accent bg-brand-accent/10 p-6 rounded-r-3xl italic text-slate-700 my-8;
+}
+
+.markdown-body strong {
+  @apply font-bold text-indigo-700;
+}
+
+/* Playful Animations */
+@keyframes bounce-subtle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-10px) rotate(2deg); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+}
+
+@keyframes star-pop {
+  0% { transform: scale(0) rotate(-45deg); opacity: 0; }
+  70% { transform: scale(1.2) rotate(10deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+
+@keyframes wiggle {
+  0%, 100% { transform: rotate(-3deg); }
+  50% { transform: rotate(3deg); }
+}
+
+.animate-star-pop {
+  animation: star-pop 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+}
+
+.animate-wiggle {
+  animation: wiggle 0.5s ease-in-out infinite;
+}
+
+.animate-bounce-subtle {
+  animation: bounce-subtle 2s infinite ease-in-out;
+}
+
+.animate-float {
+  animation: float 4s infinite ease-in-out;
+}
+
+.animate-pulse-soft {
+  animation: pulse-soft 3s infinite ease-in-out;
+}
+
+.blob {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background: var(--color-brand-primary);
+  filter: blur(80px);
+  opacity: 0.1;
+  z-index: -1;
+  border-radius: 50%;
+}
+
+.blob-secondary {
+  background: var(--color-brand-secondary);
+  width: 250px;
+  height: 250px;
+}
+
+.blob-accent {
+  background: var(--color-brand-accent);
+  width: 200px;
+  height: 200px;
+}
